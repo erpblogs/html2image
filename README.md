@@ -1,11 +1,12 @@
 IMGKit: Python library of HTML to IMG wrapper
-
+```python
   _____   __  __    _____   _  __  _   _
  |_   _| |  \/  |  / ____| | |/ / (_) | |
    | |   | \  / | | |  __  | ' /   _  | |_
    | |   | |\/| | | | |_ | |  <   | | | __|
   _| |_  | |  | | | |__| | | . \  | | | |_
  |_____| |_|  |_|  \_____| |_|\_\ |_|  \__|
+ ```
 Python 2 and 3 wrapper for wkhtmltoimage utility to convert HTML to IMG using Webkit.
 
 ## Installation
